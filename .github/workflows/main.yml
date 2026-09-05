@@ -29,7 +29,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_indepth: yes
-          commits_authoring: joshua, joshua chen, Joshua Chen, joshuazcchen, joshuazcchen@users.noreply.github.com, joshuaz.chen@mail.utoronto.ca
+          commits_authoring: thaddeus, thaddeus kobylarz, Thaddeus Kobylarz, thaddeus-kobylarz-iii, thaddeus-kobylarz-iii@users.noreply.github.com, thaddeuskobylarziii@gmail.com
           plugin_languages_details: bytes-size, percentage
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
